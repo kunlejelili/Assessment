@@ -1,4 +1,6 @@
 # #BuildForSDG Cohort-1 Python Assessment
+Hello Word
+Iwill like to complet the assessment for A Health Research 2020 Challenge
 
 > Build an overly simplified COVID-19 infection impact estimator
 
