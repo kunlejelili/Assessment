@@ -2,7 +2,8 @@
 Hello Word
 Iwill like to complet the assessment for A Health Research 2020 Challenge
 
-> Build an overly simplified COVID-19 infection impact estimator
+> Build an
+ overly simplified COVID-19 infection impact estimator
 
 This is an eligibility assessment for the 2020 [#BuildforSDG](https://buildforsdg.andela.com/) program
 
@@ -14,5 +15,6 @@ The assessment empowers me to **attempt** helping society and leaders prepare fo
 
 ### Project Setup & Submission Process
 
-> Go to [this Google Drive](https://drive.google.com/drive/u/0/folders/132af5VHpYX5LDTzqQETThXpDpw6Q6jRv) for guides on [how to setup your project](https://drive.google.com/file/d/1izTv3RdKwJf2V0RsarRc2ULDemKEAC16/view), take the assessment in one of the supported programming languages (Javascript, Python, or PHP), and how to submit your work. Make sure you read the instructions carefully, because missing a step might cost you in the long run.
+> Go to [this Google Drive](https://drive.google.com/drive
+/u/0/folders/132af5VHpYX5LDTzqQETThXpDpw6Q6jRv) for guides on [how to setup your project](https://drive.google.com/file/d/1izTv3RdKwJf2V0RsarRc2ULDemKEAC16/view), take the assessment in one of the supported programming languages (Javascript, Python, or PHP), and how to submit your work. Make sure you read the instructions carefully, because missing a step might cost you in the long run.
 ---
